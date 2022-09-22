@@ -1,2 +1,2 @@
 # Web01
-Django & React
+Using Python Django Framework & ReactJS & Sqlite3
